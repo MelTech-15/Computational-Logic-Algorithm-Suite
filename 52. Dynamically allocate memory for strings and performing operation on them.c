@@ -1,42 +1,60 @@
-// Write a C program to dynamically deallocate memory allocated using malloc() or calloc()
+// Write a C program to dynamically allocate memory for strings and perform operation on  them
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#include <limits.h>
 
 int main() {
     
-	int *ptr;
-	int n = 5;
+    char buffer[100];
+    char *ptr1,*ptr2;
+    int n;
+    
+    printf("Enter the first string: ");
+    scanf("%[^\n]",buffer);
+    
+    n = strlen(buffer) + 1;
+    
+    ptr1 = (char *)malloc(n*sizeof(char));
+    if (ptr1 == NULL) {
+        printf("Memory allocation failed for first string!\n");
+        return 1;
+    }
+    
+    strcpy(ptr1,buffer);
 
-	ptr = (int*)malloc(n * sizeof(int));
-
-	if (ptr == NULL) {
-		printf("Memory allocation failed\n");
-		return 1;
-	}
-
-	printf("Memory successfully allocated using malloc.\n");
-
-	for (int i = 0; i < n; i++) {
-		ptr[i] = i + 1;
-	}
-
-	printf("The elements of the array are: ");
-	for (int i = 0; i < n; i++) {
-    printf("%d ", ptr[i]);
-	}
-	printf("\n");
-
-	free(ptr);
-
-	printf("Memory successfully deallocated using free().\n");
-  
-	return 0;
+    printf("Enter the second string: ");
+    scanf(" %[^\n]",buffer);
+    
+    n = strlen(buffer) + 1;
+    
+    ptr2 = (char *)malloc(n*sizeof(char));
+    
+    if (ptr2 == NULL) {
+        printf("Memory allocation failed for first string!\n");
+        return 1;
+    }
+    
+    strcpy(ptr2,buffer);
+    
+    strcat(ptr1," ");    
+    strcat(ptr1,ptr2);
+    printf("Joining both the dynamically allocated strings: ");
+    puts(ptr1);
+    
+    free(ptr1);
+    free(ptr2);
+    
+    ptr1 = ptr2 = NULL;
+    
+    return 0;
 }
 
 /*
 OUTPUT:
-Memory successfully allocated using malloc.
-The elements of the array are: 1 2 3 4 5 
-Memory successfully deallocated using free()
+[?2004l
+Enter the first string: We have to go to college tmrw
+Enter the second string: to write our exam
+Joining both the dynamically allocated strings: We have to go to college tmrw to write our exam
 */
