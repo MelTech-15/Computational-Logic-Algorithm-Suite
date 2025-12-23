@@ -1,54 +1,64 @@
 List of Programs in this suite
 
-Important Questions - C programming lab (C1)
-
 GENERAL
 01. Area and circumference of circle
 02. Simple interest calculation
-07. Sum of the first 20 odd numbers
-06. Swap Two Numbers using call by Value Method 
+03. Sum of the first 20 odd numbers
+04. Swap Two Numbers using call by Value Method 
+05. Voting eligibility calculation with age
+06. Checking character whether it is a vowel or not
+07. CHecking number whether even or odd
+08. Factorial of a given number
+09. Write a Program to print the count of even numbers between 1 and 200.Also print their sum
+10. Write a Program to  calculate the average of first n numbers
+11. Write a Program to Print reverse  of a number
+12. Write a program to print the multiplication table
+13. Write a function that receives an array and its size, and returns the second largest element.
+Write a program to calculate salary of an employee,, given his basic pay (to be entered by user),HRA= 10% of the basic pay,TA= 5% of basic pay.Define HRA and TA as Constant and use them to calculate the salary of the employee
 
-04. Voting eligibility calculation with age
-05. Checking character whether it is a vowel or not
-10. CHecking number whether even or odd
-
-
-12. Factorial of a given number
-11. C program to print the sum of integers passed as command line arguments
+. C program to print the sum of integers passed as command line arguments
 
 ARRAYS & STRINGS
-03. store and display the elements of an array
-19. String palindrome checking
-21. Converting a string to uppercase or lowercase.
-22. Find the largest and smallest element in an array.
-24. Store and display student grades in an array.
-26. Matrix multiplication 
-28. Transpose a matrix
+10. Store and display the elements of an array
+11. String palindrome checking
+12. Converting a string to uppercase or lowercase
+13. Find the largest and smallest element in an array
+14. Store and display student grades in an array
+15. Matrix multiplication 
+16. Transpose a matrix
+Write a Program to find the Sum of all Elements in 3D array.
+Write a program to count digits, alphabets, and special characters in a string.
+Write a program to insert a number in an array that is already sorted in ascending order.
 
 USER-DEFINED FUNCTIONS
-02. Function to check if a given number is prime or not
-17. Sum and average of two integer Numbers using User Define Functions.
-27. Reverse a string using user-defined function
-29. Length of a given string using user-defined function
-03. Solve the Quadratic equation (ax2 + bx + c = d)
-09. Printing the Fibonacci sequence up to a user input number
-08. Power of a number using recursion
+17. Function to check if a given number is prime or composite
+18. Sum and average of two integer Numbers using User Define Functions
+19. Reverse a string using user-defined function
+20. Length of a given string using user-defined function
+21. Solve the Quadratic equation (ax2 + bx + c = d)
+22. Printing the Fibonacci sequence up to a user input number
+23. Power of a number using recursion
+Write a program to find biggest of three integers using functions.
 
 POINTERS & DYNAMIC MEMORY ALLOCATION
-04. Swap Two Numbers using call by Reference Method
-08. Array of pointers and performing operations on it.
-06. Pointer arithmetic operations - Demonstration
-15. Find the maximum element in an array using pointers.
-25. Dynamically allocate memory for strings and performing operation on them.
-23. Dynamicallic memory delocation allocated using malloc() or calloc().
+24. Swap Two Numbers using call by Reference Method
+25. Array of pointers and performing operations on it.
+26. Pointer arithmetic operations - Demonstration
+27. Find the maximum element in an array using pointers.
+28. Dynamically allocate memory for strings and performing operation on them.
+29. Dynamicallic memory delocation allocated using malloc() or calloc().
+Write a Program to Access Array Elements Using Pointers.
 
 STRUCTURES AND UNION
-32. Store and display a union of student and employee information.
-33. Store and display date (day, month, year) using structures.
+30. Store and display a union of student and employee information.
+31. Store and display date (day, month, year) using structures.
+Create a structure for employee with name, id, salary. Write a program to display the employee with the highest salary.
+Using a union, store either date (dd, mm, yyyy) or time (hh, mm, ss) and display based on user choice.
+Write a Program to enter two points and then calculate the distance between them using Structure
 
 PATTERNS
 
-18. Pattern
+32. Pattern
 
 *
 * *
@@ -58,7 +68,7 @@ PATTERNS
 * *
 *
 
-20. Pattern
+33. Pattern
 
    A
   B B
