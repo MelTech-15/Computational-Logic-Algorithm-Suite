@@ -1,1 +1,1 @@
-# Computational-Logic-Algorithm-Suite
+# Computational Logic Algorithm Suite
