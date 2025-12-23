@@ -5,15 +5,15 @@ Important Questions - C programming lab (C1)
 GENERAL
 01. Area and circumference of circle
 02. Simple interest calculation
-07. Sum of the first 20 odd numbers.
+07. Sum of the first 20 odd numbers
 06. Swap Two Numbers using call by Value Method 
-03. Solve the Quadratic equation (ax2 + bx + c = d)
+
 04. Voting eligibility calculation with age
-05. Checking character whether it is a vowel or not.
+05. Checking character whether it is a vowel or not
 10. CHecking number whether even or odd
-09. Printing the Fibonacci sequence up to a user input number.
-08. Power of a number using recursion.
-12. Factorial of a given number.
+
+
+12. Factorial of a given number
 11. C program to print the sum of integers passed as command line arguments
 
 ARRAYS & STRINGS
@@ -30,6 +30,9 @@ USER-DEFINED FUNCTIONS
 17. Sum and average of two integer Numbers using User Define Functions.
 27. Reverse a string using user-defined function
 29. Length of a given string using user-defined function
+03. Solve the Quadratic equation (ax2 + bx + c = d)
+09. Printing the Fibonacci sequence up to a user input number
+08. Power of a number using recursion
 
 POINTERS & DYNAMIC MEMORY ALLOCATION
 04. Swap Two Numbers using call by Reference Method
