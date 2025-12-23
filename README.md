@@ -7,8 +7,11 @@ time complexity (O(n)) on sorted arrays.
 
 • Utilized Git for version control and VS Code for systematic codebase management.
 
-##Sections covered
+Sections covered: 
 
-* Hello
-* Hi
-* hru
+* General
+* Arrays & Strings
+* User-defined Functions
+* Pointers & Dynamic Memory Allocation
+* Structures & Unions
+* Patterns
