@@ -14,51 +14,64 @@ GENERAL
 11. Write a Program to Print reverse  of a number
 12. Write a program to print the multiplication table
 13. Write a function that receives an array and its size, and returns the second largest element.
-Write a program to calculate salary of an employee,, given his basic pay (to be entered by user),HRA= 10% of the basic pay,TA= 5% of basic pay.Define HRA and TA as Constant and use them to calculate the salary of the employee
-
-. C program to print the sum of integers passed as command line arguments
+14. Write a program to calculate salary of an employee,, given his basic pay (to be entered by user),HRA= 10% of the basic pay,TA= 5% of basic pay.Define HRA and TA as Constant and use them to calculate the salary of the employee
+15. C program to print the sum of integers passed as command line arguments
+16. Automorphic number
+17. Perfect number
+18. Harry Potter
+19. Leap Year checking
+20. Sum of digits of a number
+21. Sum of prime digits
+22. Check whether strong number or not
 
 ARRAYS & STRINGS
-10. Store and display the elements of an array
-11. String palindrome checking
-12. Converting a string to uppercase or lowercase
-13. Find the largest and smallest element in an array
-14. Store and display student grades in an array
-15. Matrix multiplication 
-16. Transpose a matrix
-Write a Program to find the Sum of all Elements in 3D array.
-Write a program to count digits, alphabets, and special characters in a string.
-Write a program to insert a number in an array that is already sorted in ascending order.
+23. Store and display the elements of an array
+24. String palindrome checking using two pointer concept
+25. Converting a string to uppercase or lowercase
+26. Find the largest and smallest element in an array
+27. Store and display student grades in an array
+28. Matrix multiplication 
+29. Transpose a matrix
+30. Write a Program to find the Sum of all Elements in 3D array.
+31. Write a program to count digits, alphabets, and special characters in a string.
+32. Write a program to insert a number in an array that is already sorted in ascending order.
+33. Counting even digits in array
+34. Delete an element in an array
+35. Replace vowels with custom characters
+36. Reverse words
+37. Sorting array using two-pointer concept
+38. Print given range in array
+39. Print vowels in string
 
 USER-DEFINED FUNCTIONS
-17. Function to check if a given number is prime or composite
-18. Sum and average of two integer Numbers using User Define Functions
-19. Reverse a string using user-defined function
-20. Length of a given string using user-defined function
-21. Solve the Quadratic equation (ax2 + bx + c = d)
-22. Printing the Fibonacci sequence up to a user input number
-23. Power of a number using recursion
-Write a program to find biggest of three integers using functions.
+40. Function to check if a given number is prime or composite
+41. Sum and average of two integer Numbers using User Define Functions
+42. Reverse a string using user-defined function
+43. Length of a given string using user-defined function
+44. Solve the Quadratic equation (ax2 + bx + c = d)
+45. Printing the Fibonacci sequence up to a user input number
+46. Power of a number using recursion
+47. Write a program to find biggest of three integers using functions.
 
 POINTERS & DYNAMIC MEMORY ALLOCATION
-24. Swap Two Numbers using call by Reference Method
-25. Array of pointers and performing operations on it.
-26. Pointer arithmetic operations - Demonstration
-27. Find the maximum element in an array using pointers.
-28. Dynamically allocate memory for strings and performing operation on them.
-29. Dynamicallic memory delocation allocated using malloc() or calloc().
-Write a Program to Access Array Elements Using Pointers.
+48. Swap Two Numbers using call by Reference Method
+49. Array of pointers and performing operations on it.
+50. Pointer arithmetic operations - Demonstration
+51. Find the maximum element in an array using pointers.
+52. Dynamically allocate memory for strings and performing operation on them.
+53. Dynamicallic memory delocation allocated using malloc() or calloc().
+54. Write a Program to Access Array Elements Using Pointers.
 
 STRUCTURES AND UNION
-30. Store and display a union of student and employee information.
-31. Store and display date (day, month, year) using structures.
-Create a structure for employee with name, id, salary. Write a program to display the employee with the highest salary.
-Using a union, store either date (dd, mm, yyyy) or time (hh, mm, ss) and display based on user choice.
-Write a Program to enter two points and then calculate the distance between them using Structure
+55. Store and display a union of student and employee information.
+56. Store and display date (day, month, year) using structures.
+57. Create a structure for employee with name, id, salary. Write a program to display the employee with the highest salary.
+58. Using a union, store either date (dd, mm, yyyy) or time (hh, mm, ss) and display based on user choice.
+59. Write a Program to enter two points and then calculate the distance between them using Structure
 
 PATTERNS
 
-32. Pattern
+60. Pattern
 
 *
 * *
@@ -68,15 +81,12 @@ PATTERNS
 * *
 *
 
-33. Pattern
+61. Pattern
 
    A
   B B
  C C C
 D D D D
 
+62. Three pyramid pattern
 
-Ideas:
-b)Create a C program to store and display transaction records (date, amount, description) in sequential file.
-
-Define a structure called book with book name, author name and price. Write a C program t o read the details obook 
