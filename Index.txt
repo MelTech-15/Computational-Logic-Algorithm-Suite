@@ -1,0 +1,88 @@
+List of Programs in this suite
+
+Important Questions - C programming lab (C1)
+
+01. Compute Area and circumference of circle
+
+02. Function to check if a given number is prime or not
+
+03. store and display the elements of an array
+
+04. Swap Two Numbers using call by Reference Method
+
+05. Simple interest calculation
+
+06. Pointer arithmetic operations - Demonstration
+
+07. Solve the Quadratic equation (ax2 + bx + c = d)
+
+08. Array of pointers and performing operations on it.
+
+09. Voting eligibility calculation with age
+
+10. Checking character whether it is a vowel or not.
+
+11. Swap Two Numbers using call by Value Method 
+
+12. Sum of the first 20 odd numbers.
+
+13. Power of a number using recursion.
+
+14. Printing the Fibonacci sequence up to a user input number.
+
+15. Find the maximum element in an array using pointers.
+
+16. CHecking number whether even or odd
+
+17. Sum and average of two integer Numbers using User Define Functions.
+
+18. Pattern
+
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+
+19. String palindrome checking
+
+20. Pattern
+
+   A
+  B B
+ C C C
+D D D D
+
+21. Converting a string to uppercase or lowercase.
+
+22. Find the largest and smallest element in an array.
+
+23. Dynamicallic memory delocation allocated using malloc() or calloc().
+
+24. Store and display student grades in an array.
+
+25. Dynamically allocate memory for strings and performing operation on them.
+
+26. Matrix multiplication 
+
+27. Reverse a string using user-defined function
+
+28. Transpose a matrix
+
+29. Length of a given string using user-defined function
+
+30. C program to print the sum of integers passed as command line arguments
+
+31. Factorial of a given number.
+
+32. Store and display a union of student and employee information.
+
+33. Store and display date (day, month, year) using structures.
+
+
+Ideas:
+b)Create a C program to store and display transaction records (date, amount, description) in sequential file.
+
+Define a structure called book with book name, author name and price. Write a C program t o read the details obook 
