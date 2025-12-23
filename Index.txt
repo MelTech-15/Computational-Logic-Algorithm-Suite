@@ -87,3 +87,6 @@ PATTERNS
 D D D D
 
 62. Three pyramid pattern
+
+SEARCHING CONCEPT
+63. Two Pointer Search for target sum pair
