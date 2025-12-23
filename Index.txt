@@ -31,15 +31,15 @@ ARRAYS & STRINGS
 28. Matrix multiplication 
 29. Transpose a matrix
 30. Write a Program to find the Sum of all Elements in 3D array. PENDING
-31. Write a program to count digits, alphabets, and special characters in a string.
-32. Write a program to insert a number in an array that is already sorted in ascending order.
-33. Counting even digits in array
-34. Delete an element in an array
-35. Replace vowels with custom characters
-36. Reverse words
-37. Sorting array using two-pointer concept
-38. Print given range in array
-39. Print vowels in string
+31. Write a program to count digits, alphabets, and special characters in a string. PENDING
+32. Write a program to insert a number in an array that is already sorted in ascending order. PENDING
+33. Counting even digits in array PENDING
+34. Delete an element in an array PENDING
+35. Replace vowels with custom characters PENDING
+36. Reverse words PENDING
+37. Sorting array using two-pointer concept PENDING
+38. Print given range in array PENDING
+39. Print vowels in string PENDING
 
 USER-DEFINED FUNCTIONS
 40. Function to check if a given number is prime or composite
