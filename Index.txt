@@ -30,16 +30,16 @@ ARRAYS & STRINGS
 27. Store and display student grades in an array
 28. Matrix multiplication 
 29. Transpose a matrix
-30. Write a Program to find the Sum of all Elements in 3D array. PENDING
-31. Write a program to count digits, alphabets, and special characters in a string. PENDING
-32. Write a program to insert a number in an array that is already sorted in ascending order. PENDING
-33. Counting even digits in array PENDING
-34. Delete an element in an array PENDING
-35. Replace vowels with custom characters PENDING
-36. Reverse words PENDING
-37. Sorting array using two-pointer concept PENDING
-38. Print given range in array PENDING
-39. Print vowels in string PENDING
+30. Write a Program to find the Sum of all Elements in 3D array
+31. Write a program to count digits, alphabets, and special characters in a string
+32. Write a program to insert a number in an array that is already sorted in ascending order
+33. Counting even digits in array
+34. Delete an element in an array
+35. Replace vowels with custom characters
+36. Reverse words
+37. Sorting array using pointers
+38. Print given range in array
+39. Print vowels in string
 
 USER-DEFINED FUNCTIONS
 40. Function to check if a given number is prime or composite
@@ -49,20 +49,20 @@ USER-DEFINED FUNCTIONS
 44. Solve the Quadratic equation (ax2 + bx + c = d)
 45. Printing the Fibonacci sequence up to a user input number
 46. Power of a number using recursion
-47. Write a program to find biggest of three integers using functions. PENDING
+47. Write a program to find biggest of three integers using functions
 
 POINTERS & DYNAMIC MEMORY ALLOCATION
 48. Swap Two Numbers using call by Reference Method
-49. Array of pointers and performing operations on it.
+49. Array of pointers and performing operations on it
 50. Pointer arithmetic operations - Demonstration
-51. Find the maximum element in an array using pointers.
+51. Find the maximum element in an array using pointers
 52. Dynamically allocate memory for strings and performing operation on them.
-53. Dynamicallic memory delocation allocated using malloc() or calloc().
-54. Write a Program to Access Array Elements Using Pointers.
+53. Dynamicallic memory delocation allocated using malloc() or calloc()
+54. Write a Program to Access Array Elements Using Pointers
 
 STRUCTURES AND UNION
-55. Store and display a union of student and employee information.
-56. Store and display date (day, month, year) using structures.
+55. Store and display a union of student and employee information
+56. Store and display date (day, month, year) using structures
 57. Create a structure for employee with name, id, salary. Write a program to display the employee with the highest salary.
 58. Using a union, store either date (dd, mm, yyyy) or time (hh, mm, ss) and display based on user choice.
 59. Write a Program to enter two points and then calculate the distance between them using Structure
