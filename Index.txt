@@ -1,5 +1,3 @@
-List of Programs in this suite
-
 GENERAL
 01. Area and circumference of circle
 02. Simple interest calculation
@@ -89,4 +87,3 @@ PATTERNS
 D D D D
 
 62. Three pyramid pattern
-
