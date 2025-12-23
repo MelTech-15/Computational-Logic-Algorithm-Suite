@@ -30,7 +30,7 @@ ARRAYS & STRINGS
 27. Store and display student grades in an array
 28. Matrix multiplication 
 29. Transpose a matrix
-30. Write a Program to find the Sum of all Elements in 3D array.
+30. Write a Program to find the Sum of all Elements in 3D array. PENDING
 31. Write a program to count digits, alphabets, and special characters in a string.
 32. Write a program to insert a number in an array that is already sorted in ascending order.
 33. Counting even digits in array
