@@ -1,3 +1,6 @@
+Computational Logic Algorithm Suite
+This is a collection of notable programming concepts enphasising on the use of different algorithms.
+
 GENERAL
 01. Area and circumference of circle
 02. Simple interest calculation
