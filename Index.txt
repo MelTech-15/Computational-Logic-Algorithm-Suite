@@ -49,7 +49,7 @@ USER-DEFINED FUNCTIONS
 44. Solve the Quadratic equation (ax2 + bx + c = d)
 45. Printing the Fibonacci sequence up to a user input number
 46. Power of a number using recursion
-47. Write a program to find biggest of three integers using functions.
+47. Write a program to find biggest of three integers using functions. PENDING
 
 POINTERS & DYNAMIC MEMORY ALLOCATION
 48. Swap Two Numbers using call by Reference Method
