@@ -6,3 +6,9 @@ Armstrong).
 time complexity (O(n)) on sorted arrays.
 
 • Utilized Git for version control and VS Code for systematic codebase management.
+
+##Sections covered
+
+* Hello
+* Hi
+* hru
